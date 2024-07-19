@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **dangluat56@gmail.com**
 
-<a href="https://app.daily.dev/luat"><img src="https://api.daily.dev/devcards/9ff3dc492dac415f8781870cc4236c96.png?r=mo3" width="400" alt="Bankai's Dev Card"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
